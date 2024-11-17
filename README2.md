@@ -9,7 +9,7 @@ What is the purpose of using React Router in a React application?
 How do you set up React Router using BrowserRouter as shown in the lessons?
 
 # The BrowserRouter component wraps your application and provides the routing context for navigation.
-# In the App.jsx file, you’ve wrapped your app in <BrowserRouter>, enabling routing capabilities across the app.
+# In the App.jsx file, the app is wrapped in <BrowserRouter>, enabling routing capabilities across the app.
 
 Describe the role of the <Routes> and <Route> components in defining the navigation structure.
 
